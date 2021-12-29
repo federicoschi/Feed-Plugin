@@ -1,0 +1,8 @@
+name: Feed
+version: '${project.version}'
+main: systems.federicoschi.feed.Feed
+api-version: 1.18
+authors: [ FEDERICOSCHI ]
+commands:
+  feed:
+    description: Fill your food.
